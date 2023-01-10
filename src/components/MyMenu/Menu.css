@@ -1,0 +1,22 @@
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-item {
+    color: black;
+}
+
+.menu-item .MuiMenu-paper {
+    background-color: #eacdb1;
+}
+
+.menu-item .MuiMenu-paper li{
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: x-small;;
+}
+
+

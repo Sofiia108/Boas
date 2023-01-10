@@ -1,0 +1,24 @@
+:root {
+  --form-width-large: 420px;
+  --form-width-medium: 280px;
+  --form-width-small: 120px;
+
+  --form-height-large: 438px;
+  --form-height-medium: 280px;
+  --form-height-small: 120px;
+}
+
+body {
+    min-height: 100vh;
+    background-color: #eacdb1;
+}
+/*
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; 
+  padding: 1rem 0.5rem;
+}
+*/
